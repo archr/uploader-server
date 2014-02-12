@@ -1,0 +1,20 @@
+{
+  "name": "uploader-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "~1.7.1",
+    "express": "~3.4.8",
+    "mime": "~1.2.11",
+    "underscore": "~1.6.0",
+    "mongoose": "~3.8.7",
+    "async": "~0.2.10",
+    "superagent": "~0.16.0"
+  }
+}
